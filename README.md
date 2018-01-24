@@ -21,3 +21,6 @@ dvipdfm metapost.dvi
 * geometric figure
 
 ![](./example/geometric.png)
+
+### Preview online
+A metepost previewer is available as follow, it can generate a single graphic with the option to save the ouput in EPS, PDF, and SVG formats. [Click here!](http://www.tlhiv.org/mppreview/)
