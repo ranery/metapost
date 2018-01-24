@@ -14,6 +14,10 @@ dvipdfm metapost.dvi
 
 ### Examples
 
+* function coordinate
+
+![](./example/coordinate.png)
+
 * scatter diagram
 
 ![](./example/scatter_diagram.png)
@@ -22,8 +26,10 @@ dvipdfm metapost.dvi
 
 ![](./example/geometric.png)
 
+
 ### Preview online
-A metepost previewer is available as follow, it can generate a single graphic with the option to save the ouput in EPS, PDF, and SVG formats. [Click here!](http://www.tlhiv.org/mppreview/)
+
+* A metepost previewer is available as follow, it can generate a single graphic with the option to save the ouput in EPS, PDF, and SVG formats. [Click here!](http://www.tlhiv.org/mppreview/)
 
 ### Learning Material
 
