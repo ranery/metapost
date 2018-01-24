@@ -6,12 +6,20 @@ verbatimtex
 etex
 
 beginfig(1);
-drawarrow origin--(0,100);
-drawarrow origin--(100,0);
+numeric ux, uy;
+120ux = 1.2in; 4uy = 2.4in;
+drawarrow origin--(0,4uy);
+drawarrow origin--(120ux,0);
 drawdot origin withpen pencircle scaled 2pt;
+draw (0, uy){right}
+    for ix=1 upto 8:
+        ..(15ix*ux, uy*2/(1+cosd 15ix))
+    endfor;
+
 label.bot(btex $O$ etex, origin);
-label.lft(btex $y$ etex, (0,100));
-label.lrt(btex $x$ etex, (100,0));
+label.lft(btex $y$ etex, (0,4uy));
+label.lrt(btex $x$ etex, (120ux,0));
+label.lft(btex $\displaystyle y={2\over1+\cos x}$ etex, (120ux, 4uy));
 endfig;
 
 beginfig(2);
@@ -36,6 +44,12 @@ beginfig(3)
   draw A{down}..C;
   draw A{dir 30}..B;
   draw A{dir -30}..C;
+endfig;
+
+beginfig(4)
+    pair A, B, C;
+    A:=(0,0); B:=(1cm,0);C:=(0,1cm);
+    fill A--B--C--cycle withcolor .8 white;
 endfig;
 
 verbatimtex

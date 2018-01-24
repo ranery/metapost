@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=latex 2018.1.17)  24 JAN 2018 18:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=latex 2018.1.17)  24 JAN 2018 20:11
 entering extended mode
 **./metapost.tex
 (metapost.tex
@@ -66,13 +66,16 @@ File: pic/figure.2 Graphic file (type eps)
 <pic/figure.2>
 File: pic/figure.3 Graphic file (type eps)
  <pic/figure.3>
+File: pic/figure.4 Graphic file (type eps)
+ <pic/figure.4>
 File: pic/figure.1 Graphic file (type eps)
  <pic/figure.1>
 File: pic/figure.2 Graphic file (type eps)
  <pic/figure.2>
 File: pic/figure.3 Graphic file (type eps)
- <pic/figure.3>
-Overfull \hbox (53.41818pt too wide) in paragraph at lines 26--29
+
+<pic/figure.3>
+Overfull \hbox (40.36943pt too wide) in paragraph at lines 31--34
 [][] [] [] 
  []
 
@@ -80,12 +83,12 @@ Overfull \hbox (53.41818pt too wide) in paragraph at lines 26--29
 
 ] [2] (metapost.aux) ) 
 Here is how much of TeX's memory you used:
- 544 strings out of 493334
- 6132 string characters out of 3146998
- 57426 words of memory out of 3000000
- 4135 multiletter control sequences out of 15000+200000
+ 547 strings out of 493334
+ 6161 string characters out of 3146998
+ 58426 words of memory out of 3000000
+ 4137 multiletter control sequences out of 15000+200000
  3938 words of font info for 15 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  25i,4n,19p,208b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on metapost.dvi (2 pages, 852 bytes).
+Output written on metapost.dvi (2 pages, 928 bytes).
