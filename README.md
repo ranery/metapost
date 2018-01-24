@@ -15,4 +15,7 @@ dvipdfm metapost.dvi
 ### Examples
 
 * scatter diagram
+![](./example/sactter_diagram.png)
 
+* geometric figure
+![](./example/geometric.png)
