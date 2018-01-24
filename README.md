@@ -15,4 +15,4 @@ dvipdfm metapost.dvi
 ### Examples
 
 * scatter diagram
-![](./pic/figure.3)
+
