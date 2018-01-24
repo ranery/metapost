@@ -1,6 +1,6 @@
 # metapost
-Exercise about graphic programming - metapost
-
+Exercise about graphic programming language - metapost
+(Just for fun!)
 ### Usage
 
 ````
