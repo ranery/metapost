@@ -1,0 +1,98 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=latex 2018.1.17)  7 FEB 2018 23:18
+entering extended mode
+**./metapost.tex
+(metapost.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(E:\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(E:\MiKTeX\tex\latex\base\size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(E:\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(E:\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(E:\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+(E:\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(E:\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+
+(E:\MiKTeX\tex\latex\graphics-def\dvips.def
+File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+No file metapost.aux.
+\openout1 = `metapost.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+File: pic/figure.5 Graphic file (type eps)
+<pic/figure.5>
+File: pic/figure.1 Graphic file (type eps)
+ <pic/figure.1>
+File: pic/figure.2 Graphic file (type eps)
+ <pic/figure.2>
+File: pic/figure.3 Graphic file (type eps)
+ <pic/figure.3>
+File: pic/figure.4 Graphic file (type eps)
+ <pic/figure.4>
+
+LaTeX Warning: Float too large for page by 195.92824pt on input line 35.
+
+File: pic/figure.1 Graphic file (type eps)
+<pic/figure.1>
+File: pic/figure.2 Graphic file (type eps)
+ <pic/figure.2>
+File: pic/figure.3 Graphic file (type eps)
+ <pic/figure.3>
+Overfull \hbox (40.36943pt too wide) in paragraph at lines 36--39
+[][] [] [] 
+ []
+
+[1
+
+] [2] (metapost.aux) ) 
+Here is how much of TeX's memory you used:
+ 548 strings out of 493334
+ 6166 string characters out of 3146998
+ 58426 words of memory out of 3000000
+ 4139 multiletter control sequences out of 15000+200000
+ 3938 words of font info for 15 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,4n,19p,208b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on metapost.dvi (2 pages, 1004 bytes).
