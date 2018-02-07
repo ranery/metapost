@@ -16,6 +16,10 @@ dvipdfm metapost.dvi
 
 ### Examples
 
+* framework 
+
+![](./example/framework.png)
+
 * function coordinate
 
 ![](./example/coordinate.png)
